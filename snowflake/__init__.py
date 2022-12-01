@@ -1,1 +1,3 @@
-__all__ = ["let_it_snow"]
+from snowflake.let_it_snow import *
+
+main()
